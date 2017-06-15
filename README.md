@@ -23,7 +23,6 @@ _You **can** combine them_
 ### My mugshot:
 
 ![The RayJ](/profiles-150.jpg)
-Format: ![The RayJ](url)
 
 ### Testing...
 
